@@ -13,7 +13,7 @@ public class Main {
 
 		Random random = new Random();
 
-		Scanner girdi = new Scanner(new File("src/_23670310016_Metehan_Guclu/Bilgiler.txt"));
+		Scanner girdi = new Scanner(new File("src/com/metehanguclu/bingo/Bilgiler.txt"));
 
 		String tempKart = "";
 		while (girdi.hasNextLine()) {
