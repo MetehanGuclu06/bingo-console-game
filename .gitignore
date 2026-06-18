@@ -1,0 +1,15 @@
+# Derlenmiş dosyalar
+bin/
+out/
+target/
+
+# Eclipse dosyaları
+.classpath
+.project
+.settings/
+
+# Java class dosyaları (ekstra güvenlik)
+*.class
+
+# Log / sistem dosyaları (opsiyonel)
+*.log
